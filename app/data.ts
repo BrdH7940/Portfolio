@@ -35,10 +35,10 @@ export const WEB_DESCRIPTION =
 export const FOOTER_COPYRIGHT = '© 2025 Nguyen Van B.'
 export const FOOTER_LINK = 'https://github.com/username/'
 
-export const NAME = 'Nguyen Van B'
-export const JOB_TITLE = 'NASA Frontend Intern'
+export const NAME = 'Lee Min Hui'
+export const JOB_TITLE = 'AI Enthusiast'
 export const DESCRIPTION =
-  'I am a passionate designer and developer with a focus on creating beautiful and functional user interfaces. I have experience in design engineering, front-end development, and product design. I love to explore the intersection of design and technology, and I am always looking for new challenges to tackle.'
+  'I am a second year student majoring in Artificial Intelligence studying in University of Science.'
 
 export const PROJECTS: Project[] = [
   {
